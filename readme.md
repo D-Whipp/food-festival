@@ -6,7 +6,14 @@
 
 ## Description
 
+Welcome to Food Festival! A mock website for the Food Enthusiast where they can sign up to attend a food festival.
+
 ## Table of Contents
+
+- [Usage](#usage)
+- [Author](#author)
+- [License](#license)
+- [Badges](#badges)
 
 ## Usage
 
